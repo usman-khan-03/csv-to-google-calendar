@@ -1,0 +1,14 @@
+# Ignore credentials and authentication tokens
+credentials.json
+token.json
+
+# Ignore Python virtual environment (if used)
+venv/
+google-calendar-env/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
